@@ -10,3 +10,5 @@
 * javaScript
     * [JavaScript delete操作符全总结](https://github.com/sunzhaoye/blog/tree/master/javaScript/01.md)
     * [JavaScript Array sort方法总结](https://github.com/sunzhaoye/blog/tree/master/javaScript/02.md)
+* javaScript
+    * [通过nodejs搭建简单的本地服务，浅谈http中的请求头request headers](https://github.com/sunzhaoye/blog/tree/master/nodejs/01.md)
