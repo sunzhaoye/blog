@@ -7,3 +7,5 @@
 * html
     * [创建一个完整的HTML文档总结](https://github.com/sunzhaoye/blog/tree/master/html/01.md)
     * [HTML meta标签常用属性及其作用总结](https://github.com/sunzhaoye/blog/tree/master/html/02.md)
+* javaScript
+    * [JavaScript delete操作符全总结](https://github.com/sunzhaoye/blog/tree/master/javaScript/01.md)
