@@ -5,10 +5,10 @@
 目录
 
 * html
-    * [创建一个完整的HTML文档总结](https://github.com/sunzhaoye/blog/tree/master/html/01.md)
-    * [HTML meta标签常用属性及其作用总结](https://github.com/sunzhaoye/blog/tree/master/html/02.md)
+    * [创建一个完整的HTML文档总结](https://github.com/sunzhaoye/blog/issues/1)
+    * [HTML meta标签常用属性及其作用总结](https://github.com/sunzhaoye/blog/issues/2)
 * javaScript
-    * [JavaScript delete操作符全总结](https://github.com/sunzhaoye/blog/tree/master/javaScript/01.md)
-    * [JavaScript Array sort方法总结](https://github.com/sunzhaoye/blog/tree/master/javaScript/02.md)
+    * [JavaScript delete操作符全总结](https://github.com/sunzhaoye/blog/issues/3)
+    * [JavaScript Array sort方法总结](https://github.com/sunzhaoye/blog/issues/4)
 * javaScript
-    * [通过nodejs搭建简单的本地服务，浅谈http中的请求头request headers](https://github.com/sunzhaoye/blog/tree/master/nodejs/01.md)
+    * [通过nodejs搭建简单的本地服务，浅谈http中的请求头request headers](https://github.com/sunzhaoye/blog/issues/5)
