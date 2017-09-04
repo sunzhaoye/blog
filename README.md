@@ -9,3 +9,4 @@
     * [HTML meta标签常用属性及其作用总结](https://github.com/sunzhaoye/blog/tree/master/html/02.md)
 * javaScript
     * [JavaScript delete操作符全总结](https://github.com/sunzhaoye/blog/tree/master/javaScript/01.md)
+    * [JavaScript Array sort方法总结](https://github.com/sunzhaoye/blog/tree/master/javaScript/02.md)
