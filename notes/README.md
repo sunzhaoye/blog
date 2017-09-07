@@ -3,4 +3,4 @@
 目录
 
 * html
-    * [创建一个完整的HTML文档总结](https://github.com/sunzhaoye/blog/blob/master/nodes/01.md)
+    * [创建一个完整的HTML文档总结](https://github.com/sunzhaoye/blog/blob/master/notes/01.md)
