@@ -13,4 +13,4 @@
 * nodejs
     * [通过nodejs搭建简单的本地服务，浅谈http中的请求头request headers](https://github.com/sunzhaoye/blog/issues/5)
 * 笔记
-	* [笔记](https://github.com/sunzhaoye/blog/blob/master/nodes/README.md)
+	* [笔记](https://github.com/sunzhaoye/blog/tree/master/notes)
