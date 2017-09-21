@@ -12,6 +12,7 @@
     * [JavaScript Array sort方法总结](https://github.com/sunzhaoye/blog/issues/4)
     * [js中的执行栈、执行环境(上下文)、作用域、作用域链、活动对象、变量对象的概念总结](https://github.com/sunzhaoye/blog/issues/6)
     * [js事件循环(执行机制)](https://github.com/sunzhaoye/blog/issues/7)
+    * [js中Object.defineProperty和defineProperties](https://github.com/sunzhaoye/blog/issues/8)
 * nodejs
     * [通过nodejs搭建简单的本地服务，浅谈http中的请求头request headers](https://github.com/sunzhaoye/blog/issues/5)
 * 笔记
