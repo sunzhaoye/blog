@@ -14,6 +14,7 @@
     * [js事件循环(执行机制)](https://github.com/sunzhaoye/blog/issues/7)
     * [js中Object.defineProperty和defineProperties](https://github.com/sunzhaoye/blog/issues/8)
     * [js简易版的vue数据双向绑定](https://github.com/sunzhaoye/blog/issues/9)
+    * [js中的面向对象、原型、原型链、继承](https://github.com/sunzhaoye/blog/issues/10)
 * nodejs
     * [通过nodejs搭建简单的本地服务，浅谈http中的请求头request headers](https://github.com/sunzhaoye/blog/issues/5)
 * 笔记
