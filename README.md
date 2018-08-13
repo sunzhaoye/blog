@@ -9,12 +9,12 @@
     * [HTML文档中meta标签常用属性及其作用](https://github.com/sunzhaoye/blog/issues/2)
     * [《Webkit技术内幕》之页面渲染过程](https://github.com/sunzhaoye/blog/issues/13)
 * javaScript
-    * [JavaScript中delete操作符](https://github.com/sunzhaoye/blog/issues/3)
-    * [JavaScript中Array的sort](https://github.com/sunzhaoye/blog/issues/4)
-    * [JavaScript中的执行栈、执行环境(上下文)、作用域、作用域链、活动对象、变量对象的概念总结](https://github.com/sunzhaoye/blog/issues/6)
+    * [javaScript中的执行上下文和变量对象](https://github.com/sunzhaoye/blog/issues/14)
+    * [JavaScript中的闭包](https://github.com/sunzhaoye/blog/issues/12)
     * [Object.defineProperty和defineProperties](https://github.com/sunzhaoye/blog/issues/8)
     * [JavaScript中的面向对象、原型、原型链、继承](https://github.com/sunzhaoye/blog/issues/10)
     * [JavaScript中的正则表达式](https://github.com/sunzhaoye/blog/issues/11)
-    * [JavaScript中的闭包](https://github.com/sunzhaoye/blog/issues/12)
+    * [JavaScript中delete操作符](https://github.com/sunzhaoye/blog/issues/3)
+    * [JavaScript中Array的sort](https://github.com/sunzhaoye/blog/issues/4)
 * 笔记
 	* [笔记](https://github.com/sunzhaoye/blog/tree/master/notes)
