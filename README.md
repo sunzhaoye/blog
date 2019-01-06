@@ -9,6 +9,7 @@
     * [HTML文档中meta标签常用属性及其作用](https://github.com/sunzhaoye/blog/issues/2)
     * [《Webkit技术内幕》之页面渲染过程](https://github.com/sunzhaoye/blog/issues/13)
 * javaScript
+    * [JavaScript中常见的设计模式](https://github.com/sunzhaoye/blog/issues/16)
     * [javaScript中的执行上下文和变量对象](https://github.com/sunzhaoye/blog/issues/14)
     * [JavaScript中的闭包](https://github.com/sunzhaoye/blog/issues/12)
     * [Object.defineProperty和defineProperties](https://github.com/sunzhaoye/blog/issues/8)
