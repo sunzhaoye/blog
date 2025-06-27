@@ -29,3 +29,7 @@
 ## Linux
 
 * [web前端开发中，需掌握的linux概念及常用命令](https://github.com/sunzhaoye/blog/issues/17)
+
+## AI 大模型进阶
+
+* [AI 大模型应用进阶系列（一）：Python 基础](https://github.com/sunzhaoye/blog/issues/20)
